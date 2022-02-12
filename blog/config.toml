@@ -24,7 +24,7 @@ paginate = 5
 
     [languages.en.params.logo]
       logoText = "CabraCega"
-      logoHomeLink = "/"
+      logoHomeLink = "/blog"
 
     [languages.en.menu]
       [[languages.en.menu.main]]
